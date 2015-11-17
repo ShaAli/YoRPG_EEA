@@ -28,11 +28,11 @@ public class Lawyer extends Character {
     }
     
    public string about(){
-  	return "The Lawyer wields his words as his weapon. He prefers battle in a courtroom and is liked by none.";
+  	return "The Lawyer wields his words as his weapon. He prefers battle in the courtroom and his eloquence is feared throughout the land.";
 	}
 public void specialize(){
   _defense = 100;
-  _attack = 5.0;
+  _attack = 0.1;
 }
 
 public void normalize(){
