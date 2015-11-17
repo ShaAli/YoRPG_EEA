@@ -26,7 +26,7 @@ public class Mage extends Character {
 	this();
 	_name = name;
     }
-public string about(){
+public String about(){
   return "I am the mystical mage, and I am capable of incredible feats. Pick me if you wish to focus on potions and spells";
 }
 
