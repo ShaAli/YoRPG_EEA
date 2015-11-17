@@ -33,7 +33,7 @@ public class Rogue extends Character {
     
     public void specialize(){
       attack = .8;
-      deffense = 25;
+      defense = 25;
     }
     
     public void normalize(){
