@@ -26,6 +26,19 @@ public class CSTeacher extends Character {
 	this();
 	_name = name;
     }
+    
+    public string about(){
+  	return "The CS Teacher seeks the education of all in the most holy of pursuits, computer science. Literally a living god, select this class only if you always like to win.";
+	}
+public void specialize(){
+  _defense = 100;
+  _attack = 5.0;
+}
+
+public void normalize(){
+	_defense = 40;
+	_attack = .4;
+}
 
 }//end class CSTeacher
 
