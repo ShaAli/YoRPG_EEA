@@ -28,7 +28,7 @@ public class Rogue extends Character {
     }
     
     public String about(){
-      "I am the rogue, my greatest weapon is my silence, I could be right behind you at any time"
+      return "I am the rogue, my greatest weapon is my silence, I could be right behind you at any time"
     }
     
     public void specialize(){
