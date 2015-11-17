@@ -35,5 +35,10 @@ public void specialize(){
   _attack = 1.2;
 }
 
+public void specialize(){
+	_defense = 40;
+	_attack = .4;
+}
+
 }//end class Mage
 
