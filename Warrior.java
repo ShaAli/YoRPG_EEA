@@ -37,7 +37,7 @@ public class Warrior extends Character {
       _defense=40;
     }
     
-    public string about(){
+    public String about(){
       return "Me warrior varry strong, but knot sew smart. Pick me if you want to bash in som monster skulls.";
     }
 
