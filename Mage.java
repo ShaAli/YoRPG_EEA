@@ -35,7 +35,7 @@ public void specialize(){
   _attack = 1.2;
 }
 
-public void specialize(){
+public void normalize(){
 	_defense = 40;
 	_attack = .4;
 }
