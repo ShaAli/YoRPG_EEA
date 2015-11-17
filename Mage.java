@@ -31,7 +31,7 @@ public string about(){
 }
 
 public void specialize(){
-  _defense = 15;
+  _defense = 10;
   _attack = 1.2;
 }
 
