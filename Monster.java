@@ -24,7 +24,7 @@ public class Monster extends Character {
     }
     
   public string about(){
-    return "how the heck are you reading this right now?"
+    return "how the heck are you reading this right now?";
   }
   
   public void normalize(){
