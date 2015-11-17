@@ -23,7 +23,7 @@ public class Monster extends Character {
 	  _attack = .4;
     }
     
-  public string about(){
+  public String about(){
     return "how the heck are you reading this right now?";
   }
   
