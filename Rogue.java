@@ -32,13 +32,13 @@ public class Rogue extends Character {
     }
     
     public void specialize(){
-      attack = .8;
-      defense = 25;
+      _attack = .8;
+      _defense = 25;
     }
     
     public void normalize(){
-      attack = .4;
-      defense = 40;
+      _attack = .4;
+      _defense = 40;
     }
 
 }//end class Rogue
