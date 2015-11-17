@@ -27,7 +27,7 @@ public class Lawyer extends Character {
 	_name = name;
     }
     
-   public string about(){
+   public String about(){
   	return "The Lawyer wields his words as his weapon. He prefers battle in the courtroom and his eloquence is feared throughout the land.";
 	}
 public void specialize(){
