@@ -27,7 +27,7 @@ public class CSTeacher extends Character {
 	_name = name;
     }
     
-    public string about(){
+    public String about(){
   	return "The CS Teacher seeks the education of all in the most holy of pursuits, computer science. Literally a living god, select this class only if you always like to win.";
 	}
 public void specialize(){
